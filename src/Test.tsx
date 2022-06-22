@@ -19,6 +19,7 @@ export default function Test(){
 
     return (
         <div>
+            <h1>Questions</h1>
             {
                 questions &&
                 questions.map(q=><div>{q.question}</div>)

@@ -1,7 +1,7 @@
 {
   "name": "quiz-frontend",
   "version": "0.1.0",
-  "homepage": "https://muc-java-22-1.github.io/",
+  "homepage": ".",
   "proxy": "https://quizzable.herokuapp.com/",
   "private": true,
   "dependencies": {
